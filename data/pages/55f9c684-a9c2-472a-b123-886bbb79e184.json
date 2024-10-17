@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-10-17T20:09:51.345Z",
+  "created_by": "SteveMarvin",
+  "title": "Interview 1",
+  "slug": "interview-1",
+  "updated_at": "2024-10-17T20:09:51.345Z",
+  "updated_by": "SteveMarvin",
+  "parent": "1c2b324d-4956-4f37-b015-be4db7c71aed",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "fdd94cc8-45fc-4f2d-bc96-ff55b4e08862"
+  }
+}
