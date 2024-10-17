@@ -1,15 +1,1 @@
-{
-  "content": [],
-  "created_at": "2024-10-17T20:12:51.627Z",
-  "created_by": "SteveMarvin",
-  "title": "Imported Event 1",
-  "slug": "imported-event-1",
-  "updated_at": "2024-10-17T20:12:51.627Z",
-  "updated_by": "SteveMarvin",
-  "parent": "1c2b324d-4956-4f37-b015-be4db7c71aed",
-  "autogenerate": {
-    "enabled": true,
-    "type": "event",
-    "type_id": "facac8c6-44f5-49d1-8bae-3769cea83fa5"
-  }
-}
+{"content":[],"created_at":"2024-10-17T20:12:51.627Z","created_by":"SteveMarvin","title":"Imported Event 1","slug":"imported-event-1","updated_at":"2024-10-17T20:12:51.627Z","updated_by":"SteveMarvin","parent":"1c2b324d-4956-4f37-b015-be4db7c71aed","autogenerate":{"enabled":true,"type":"event","type_id":"facac8c6-44f5-49d1-8bae-3769cea83fa5"}}
