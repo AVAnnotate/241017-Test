@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "asdf"
+        }
+      ]
+    }
+  ],
+  "title": "sub page",
+  "parent": "1c2b324d-4956-4f37-b015-be4db7c71aed",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "sub-page",
+  "created_at": "2024-10-17T20:10:37.850Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2024-10-17T20:10:37.850Z",
+  "updated_by": "SteveMarvin"
+}
