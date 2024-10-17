@@ -1,5 +1,48 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the first ten seconds of this video file."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Bob, Film Direction, Speaker",
+          "tag": "Tanya"
+        }
+      ],
+      "uuid": "ce05d48e-53ce-4f48-a97a-6051410e4a26"
+    },
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is my film direction for this piece of film."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Transcription, Topic",
+          "tag": "Tanya"
+        }
+      ],
+      "uuid": "7032fe38-8845-45f6-b9bd-93fe5ef296ee"
+    }
+  ],
   "set": "Default",
   "event_id": "fdd94cc8-45fc-4f2d-bc96-ff55b4e08862",
   "source_id": "97c65970-bbca-464b-acd3-6ee772a1e3f9"
